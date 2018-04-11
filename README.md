@@ -3,17 +3,17 @@
 Based on [@PandaTheme](https://github.com/PandaTheme), a _Superminimal_, _dark_ theme family by [@siamak](http://github.com/Siamak). It's a _dark_ theme crafted especially for [Alfred.app](https://www.alfredapp.com/), with subtle colors that are meant to be easy on the eyes.
 
 ---
-![Main ScreenShot](main.png)
+![Main screenshot](main.png "Theme in Alfred appearance pane")
 
 ---
 
 ## ⌨️ How to Use
-1. Download and extract .zip file.
-1. Double-click `Panda.alfredappearance` to add to Alfred.
+1. Download and extract [.zip](https://github.com/bishless/alfred-panda/archive/master.zip) file.
+1. Double-click **Panda.alfredappearance** to add theme to Alfred.app's _Appearance_ pane.
 1. Click the `Import` button when prompted.
 
 ## 🐼 About Pandas
-![Pandas ScreenShot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
+![Pandas screenshot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
 
 1. Sleep 12-14 hours per day
 2. Eat 12-14 hours per day
