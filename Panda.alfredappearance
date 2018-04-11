@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#FEB76BFF",
+        "font" : "System Light",
+        "color" : "#7DC0FEFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#7F7F7FFF",
+        "font" : "System Light",
+        "color" : "#4C4C4CFF"
+      },
+      "backgroundSelected" : "#EA2764FF",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#7DC0FEFF",
+        "font" : "System Light",
+        "color" : "#E5E6E5FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 0,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#2A2B30FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#50FEDCFF"
+      },
+      "backgroundSelected" : "#916EE1FF"
+    },
+    "window" : {
+      "color" : "#2A2B30FF",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#2A2B307F",
+      "blur" : 0,
+      "roundness" : 0,
+      "paddingVertical" : 10
+    },
+    "credit" : "Daniel Bishop",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#262626FF",
+      "thickness" : 2
+    },
+    "name" : "Panda"
+  }
+}
